@@ -4,7 +4,7 @@ Description: 'CloudFormation template for creating IAM role for cross-account ac
 Parameters:
   DestinationAccountID:
     Type: String
-    Description: '747825846810' # source account
+    Description: 'xxxxxxxxxxxxx' # source account
     MinLength: 12
     MaxLength: 12
 

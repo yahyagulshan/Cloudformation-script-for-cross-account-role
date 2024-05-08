@@ -1,0 +1,1 @@
+# Cloudformation-script-for-cross-account-role
